@@ -1,0 +1,5 @@
+load 0 0
+load 2 -1
+add 1 0 0
+add 2 1 1
+bgt 1 -3
